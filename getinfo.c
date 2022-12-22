@@ -1,4 +1,5 @@
 #include "shell.h"
+/*Team Project By Isaac Akom Lamptey and Ibee Umar*/
 
 /**
  * clear_info - initializes info_t struct

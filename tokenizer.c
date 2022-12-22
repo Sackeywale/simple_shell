@@ -1,4 +1,5 @@
 #include "shell.h"
+/*Team Project By Isaac Akom Lamptey and Ibee Umar*/
 
 /**
  * **strtow - splits a string into words. Repeat delimiters are ignored

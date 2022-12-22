@@ -1,4 +1,5 @@
 #include "shell.h"
+/*Team Project By Isaac Akom Lamptey and Ibee Umar*/
 
 /**
  * _erratoi - converts a string to an integer
